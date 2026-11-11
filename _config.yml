@@ -1,0 +1,8 @@
+title: Team Estimation for Jira
+description: Estimate Jira work items together on a sizing board or with planning poker – user guide, FAQ, privacy, terms and support.
+theme: minima
+header_pages:
+  - index.md
+  - guide.md
+  - faq.md
+  - support.md
