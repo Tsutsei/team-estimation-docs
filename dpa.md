@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 11 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Team Estimation – Sizing Board & Planning Poker for Jira** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Team Estimation – Sizing Board & Planning Poker for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Running estimation sessions on the Customer's Jira work items and saving the agreed estimates, for as long as the App is installed.
 2. **Nature and purpose.** Storing, per estimation session, the ids of its work items, the lanes and votes chosen by participants and the account ids of the participants; showing work items to each participant with that participant's Jira permissions; writing estimates to Jira as the user who saves them.

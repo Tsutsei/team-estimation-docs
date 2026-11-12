@@ -6,7 +6,7 @@ permalink: /privacy/
 
 _Last updated: 11 November 2026_
 
-This policy describes how the Atlassian Marketplace app "Team Estimation – Sizing Board & Planning Poker for Jira" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
+This policy describes how the Atlassian Marketplace app "Team Estimation – Sizing Board & Planning Poker for Jira" (the "App") processes data. The App is provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
 
 ## 1. What the App stores
 For each estimation session: its name and settings (estimate field, scale), the **ids** of its work items, the lane each card is in, the votes of participants, the last value saved to Jira, and the **Atlassian account ids** of the creator, moderators and participants. The App stores **no content of work items** (no summaries, descriptions or comments) and **no names or e-mail addresses**.
